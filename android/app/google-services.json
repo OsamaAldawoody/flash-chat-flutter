@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820141410740",
+    "firebase_url": "https://flash-chat-f759c.firebaseio.com",
+    "project_id": "flash-chat-f759c",
+    "storage_bucket": "flash-chat-f759c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820141410740:android:424c9e40c6403599510ae1",
+        "android_client_info": {
+          "package_name": "co.osama.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820141410740-33mks937hspnlln67k09vc6cvt2mcead.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrgN0KEcxH2s-dft8rV33xitdGQBa-Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820141410740-33mks937hspnlln67k09vc6cvt2mcead.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
